@@ -1,0 +1,38 @@
+{
+  "name": "@boldreports/react-reporting-components",
+  "version": "2.1.14",
+  "description": "The Bold Reports by Syncfuion components for React contains ReportViewer and ReportDesigner reporting components for enterprise web development",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/boldreports/react-reporting-components.git"
+  },
+  "keywords": [
+    "Bold Reports",
+    "Bold Report Viewer",
+    "Bold Report Designer",
+    "syncfusion",
+    "HTML5 JavaScript Report Viewer",
+    "bold reports",
+    "javascript",
+    "react components",
+    "react reporting tools",
+    "reporting tools",
+    "reporting ui components",
+    "ssrs report viewer",
+    "ssrs report designer",
+    "export report",
+    "report editor",
+    "report builder",
+    "rdl",
+    "rdlc"
+  ],
+  "author": "Syncfusion Inc",
+  "license": "SEE LICENSE IN README.md",
+  "dependencies": {
+    "@boldreports/javascript-reporting-controls": "*"
+  },
+  "bugs": {
+    "url": "https://github.com/boldreports/react-reporting-components/issues"
+  },
+  "homepage": "https://boldreports.com/"
+}
