@@ -29,7 +29,7 @@
   "author": "Syncfusion Inc",
   "license": "SEE LICENSE IN README.md",
   "dependencies": {
-    "@boldreports/javascript-reporting-controls": "4.2.62"
+    "@boldreports/javascript-reporting-controls": "4.2.52"
   },
   "bugs": {
     "url": "https://github.com/boldreports/react-reporting-components/issues"
