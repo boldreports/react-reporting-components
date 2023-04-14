@@ -1,6 +1,6 @@
 ## BoldReports React UI Components
 
-The Bold Reports UI components for React contains `ReportViewer` and `ReportDesigner` reporting components for enterprise web development. Empower your web application with feature-rich report preview, edit, and customization capabilities that allow you to explore data easily and make real-time decisions. Effortlessly print and export reports.
+The Bold Reports UI components for React contains [ReportViewer](https://www.boldreports.com/embedded-reporting/react-report-viewer) and [ReportDesigner](https://www.boldreports.com/embedded-reporting/react-report-designer) reporting components for enterprise web development. Empower your web application with feature-rich report preview, edit, and customization capabilities that allow you to explore data easily and make real-time decisions. Effortlessly print and export reports.
 
 ![Bold Reports React Reporting Tool](https://demos.boldreports.com/Images/report-platform.gif)
 
