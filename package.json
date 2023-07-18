@@ -1,6 +1,6 @@
 {
   "name": "@boldreports/react-reporting-components",
-  "version": "5.2.26",
+  "version": "2.1.14",
   "description": "The Bold Reports by Syncfuion components for React contains ReportViewer and ReportDesigner reporting components for enterprise web development",
   "repository": {
     "type": "git",
