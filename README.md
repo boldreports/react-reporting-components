@@ -8,7 +8,7 @@ The Bold Reports UI components for React contains [React Report Viewer](https://
 
 ### Online Demos
 
-Take a look at the Bold Reports React live demo [here](https://demos.boldreports.com/home/).
+Take a look at the Bold Reports React live demo [here](https://demos.boldreports.com/home/react.html?utm_source=github&utm_medium=backlinks).
 
 ## Support
 
